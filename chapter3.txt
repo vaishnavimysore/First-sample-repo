@@ -1,1 +1,1 @@
-Hey this is chapter 3 for my git practice :)
+Hey this is chapter 3 for my git practice after pushing to github repo :)
